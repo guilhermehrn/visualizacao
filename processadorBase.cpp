@@ -19,6 +19,33 @@ float calculaSimilaridad(Pessoa pessoa1, Pessoa pessoa2, int tamanhoVet) {
 	return sqrt(aux);
 }
 
+float calculaSimilaridadNormalizado(Pessoa pessoa1, Pessoa pessoa2, int tamanhoVet){
+	float aux = 0;
+	int normal1 = 0;
+	int normal2 = 0;
+	int localVisNormal1[tamanhoVet];
+	int localVisNormal2[tamanhoVet];
+
+	for (int j = 0; j < tamanhoVet; j++){
+
+		normal1 = normal1 + pessoa1.quantLocalVis[j];
+		normal2 = normal2 + pessoa2.quantLocalVis[j];
+	}
+
+	for (int h = 0; h < tamanhoVet; h++){
+
+		localVisNormal1[h] = pessoa1.quantLocalVis[h]/normal1;
+		localVisNormal2[h] = pessoa2.quantLocalVis[h]/normal2;
+		}
+
+		for (int i = 0; i < tamanhoVet; i++) {
+			aux = aux
+					+ pow((localVisNormal1[i] - localVisNormal2[i]), 2);
+
+		}
+		return sqrt(aux);
+}
+
 void imprimir(Grafo graf[], int quant) {
 	char aux;
 	for (int i = 0; i < quant; i++) {

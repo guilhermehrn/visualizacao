@@ -38,6 +38,8 @@ struct Grafo{
 
 float calculaSimilaridad(Pessoa pessoa1, Pessoa pessoa2, int tamanhoVet);
 
+float calculaSimilaridadNormalizado(Pessoa pessoa1, Pessoa pessoa2, int tamanhoVet);
+
 void imprimir(Grafo graf[], int quant);
 
 void imprimirArquivo(Grafo graf[], int quant);
