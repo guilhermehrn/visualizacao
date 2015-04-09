@@ -1,0 +1,1700 @@
+grafo:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:0 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:4 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:0 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:0 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:4 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:0 Q:0 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:4 Z:0
+grafo:1
+pessoa: 0
+ A:0 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:0 E:1 F:2 G:1 H:3 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 9
+ A:2 B:0 C:0 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:2
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:0 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 10
+ A:2 B:0 C:0 D:4 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:2 O:0 P:1 Q:1 R:0 S:0 T:0 U:0 V:1 W:1 X:0 Y:4 Z:0
+grafo:3
+pessoa: 2
+ A:0 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:0 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:0 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:0 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:4
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:1 J:0 K:0 L:1 M:2 N:0 O:0 P:1 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:0 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:0 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:0 F:0 G:0 H:0 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:1 E:0 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:5
+pessoa: 0
+ A:0 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:0 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:6 E:0 F:1 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:0 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:2 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:4 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:0 N:3 O:0 P:0 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:4 Z:0
+grafo:6
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:0 G:1 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:1 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:0 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:1 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:1 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:0 D:2 E:1 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:2 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:7
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:1 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:0 B:0 C:0 D:1 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:0 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:1 G:1 H:1 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:8
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:0 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:0 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:0 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:1 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:0 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:1 O:0 P:0 Q:0 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:9
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:0 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:0 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:1 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:10
+pessoa: 0
+ A:0 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:0 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 9
+ A:2 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:1 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:11
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:1 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:0 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:4 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:2 B:0 C:1 D:2 E:1 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:0 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 10
+ A:1 B:0 C:0 D:4 E:3 F:1 G:1 H:1 I:0 J:0 K:0 L:0 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:3 Z:0
+grafo:12
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:0 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:2 W:0 X:0 Y:3 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:13
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:1 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:0 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:14
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:1 E:1 F:0 G:0 H:0 I:1 J:0 K:1 L:0 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:3 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:4 Z:0
+grafo:15
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:0 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:0 G:2 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:2 Q:0 R:1 S:0 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:2 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:2 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:16
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:0 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:17
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:0 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:1 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:0 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:2 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:4 E:2 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:0 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:4 Z:0
+grafo:18
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:0 N:0 O:0 P:2 Q:0 R:1 S:0 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:4 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:4 Z:0
+grafo:19
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:20
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:0 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:4 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 9
+ A:2 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:2 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:21
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:1 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:0 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:0 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:0 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:4 E:0 F:1 G:0 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:22
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:2 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:3 E:2 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:4 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:23
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:1 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:0 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:0 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:0 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:0 B:0 C:4 D:2 E:0 F:2 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:24
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:2 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:1 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:1 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:0 O:0 P:0 Q:0 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:2 E:1 F:0 G:0 H:0 I:2 J:0 K:0 L:1 M:0 N:1 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 7
+ A:0 B:0 C:4 D:2 E:0 F:2 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:25
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:0 G:1 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 10
+ A:2 B:0 C:0 D:4 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:0 N:3 O:0 P:1 Q:1 R:0 S:0 T:0 U:0 V:1 W:1 X:0 Y:2 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:26
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:0 F:0 G:0 H:0 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:1 J:0 K:1 L:0 M:0 N:2 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:27
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:0 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:2 Z:0
+pessoa: 7
+ A:0 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:1 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:0 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:2 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:28
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:0 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:2 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:29
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:0 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:3 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:30
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:0 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:0 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:3 E:2 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:31
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:0 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:32
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:0 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:3 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:0 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:33
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:1 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:0 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:4 E:3 F:1 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:0 Q:1 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:34
+pessoa: 0
+ A:0 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:0 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:0 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:0 L:1 M:0 N:2 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:35
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:0 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:0 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:1 G:1 H:1 I:3 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:0 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 8
+ A:3 B:0 C:0 D:2 E:2 F:0 G:0 H:0 I:1 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:36
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:1 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:0 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:0 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:2 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:3 B:0 C:0 D:2 E:2 F:0 G:0 H:0 I:1 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:37
+pessoa: 0
+ A:0 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:0 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:0 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:1 E:0 F:2 G:0 H:0 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:0 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:38
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:0 G:2 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:0 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:0 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:2 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:39
+pessoa: 0
+ A:0 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:0 I:1 J:0 K:1 L:0 M:0 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:3 E:1 F:0 G:0 H:0 I:1 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:40
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:1 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:2 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:2 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:2 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:41
+pessoa: 0
+ A:0 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:1 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:0 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:6 E:0 F:2 G:0 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:0 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:42
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:0 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:0 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:43
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:0 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:0 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:0 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 8
+ A:2 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:44
+pessoa: 0
+ A:0 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:0 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:1 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:45
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:0 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:0 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:0 J:0 K:1 L:0 M:0 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:46
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:0 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:2 D:2 E:0 F:3 G:0 H:1 I:0 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:0 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:47
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:0 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:0 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:0 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:0 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:4 E:3 F:2 G:1 H:0 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:0 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+grafo:48
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:0 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:3 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:4 Z:0
+grafo:49
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:0 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:50
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:0 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:2 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:1 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:51
+pessoa: 0
+ A:1 B:0 C:1 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:2 O:0 P:1 Q:0 R:1 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:52
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:0 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:0 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:53
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:2 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:0 D:2 E:0 F:0 G:2 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:2 W:0 X:0 Y:3 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:0 M:0 N:2 O:0 P:0 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:54
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:1 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:3 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:4 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 9
+ A:3 B:0 C:0 D:0 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:2 O:0 P:0 Q:0 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:2 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:2 Z:0
+grafo:55
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:0 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:0 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:56
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:0 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:2 O:0 P:0 Q:0 R:0 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:57
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:0 B:0 C:0 D:0 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:2 I:1 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 9
+ A:2 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:58
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:3 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:0 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:3 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:4 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:59
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:0 G:1 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:0 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:1 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:60
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:0 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:0 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:0 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:61
+pessoa: 0
+ A:1 B:0 C:1 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:3 Z:0
+pessoa: 2
+ A:0 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:0 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:0 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:62
+pessoa: 0
+ A:0 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:0 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:0 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:0 F:2 G:1 H:2 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:2 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:63
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:1 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:64
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:1 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:0 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 8
+ A:2 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:65
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:1 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:1 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:0 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:4 E:0 F:2 G:0 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:0 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:66
+pessoa: 0
+ A:0 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:0 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:0 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:5 E:0 F:1 G:1 H:1 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:0 B:0 C:3 D:2 E:0 F:3 G:0 H:1 I:0 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:67
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:1 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:0 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:68
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:0 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:4 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:0 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:0 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:0 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:69
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:0 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:0 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:1 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:70
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:6 E:0 F:1 G:1 H:1 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:0 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:71
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:0 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:0 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:0 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:1 E:0 F:2 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:72
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:0 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:0 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 10
+ A:2 B:0 C:0 D:2 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:2 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:3 Z:0
+grafo:73
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:0 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:1 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:0 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:74
+pessoa: 0
+ A:0 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:1 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:0 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:0 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:1 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:0 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:0 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:75
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:0 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:4 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:1 E:0 F:2 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:1 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:2 O:0 P:0 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:76
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:3 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:0 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:0 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:1 E:0 F:2 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:77
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:2 R:0 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:3 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:2 Q:0 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:0 F:2 G:1 H:3 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:0 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:78
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:1 J:0 K:0 L:1 M:1 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:0 D:1 E:1 F:1 G:0 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:79
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:0 D:1 E:0 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:0 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:3 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:80
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:2 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:0 L:1 M:0 N:1 O:0 P:1 Q:0 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:81
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:0 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:1 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:1 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:82
+pessoa: 0
+ A:0 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:0 B:0 C:1 D:1 E:0 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:0 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:2 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:83
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:1 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:3 E:0 F:1 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:0 F:0 G:0 H:1 I:1 J:0 K:0 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:2 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:1 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:1 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:84
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:0 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:0 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:0 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:1 E:1 F:0 G:0 H:1 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 9
+ A:2 B:0 C:1 D:1 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:0 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:85
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:0 F:0 G:1 H:0 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:3 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:0 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:1 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:1 J:0 K:1 L:1 M:0 N:1 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:86
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:1 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:87
+pessoa: 0
+ A:0 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:1 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:1 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:3 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:88
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:1 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:0 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:0 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:1 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:89
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:0 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:1 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:1 J:0 K:1 L:1 M:0 N:3 O:0 P:0 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:90
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 5
+ A:1 B:0 C:0 D:6 E:0 F:2 G:1 H:0 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:3 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:91
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:4 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:2 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:0 B:0 C:3 D:2 E:0 F:2 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:0 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:92
+pessoa: 0
+ A:1 B:0 C:2 D:0 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:1 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:1 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:0 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:1 G:1 H:1 I:2 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:1 E:1 F:0 G:0 H:0 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:0 I:1 J:0 K:0 L:0 M:5 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:93
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:0 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:0 E:1 F:1 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:2 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:1 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:3 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:2 E:0 F:3 G:0 H:0 I:1 J:0 K:0 L:0 M:5 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:94
+pessoa: 1
+ A:2 B:0 C:0 D:1 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:0 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:0 B:0 C:0 D:1 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:3 D:1 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:2 E:1 F:0 G:0 H:0 I:2 J:0 K:0 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 9
+ A:3 B:0 C:1 D:1 E:0 F:0 G:0 H:0 I:1 J:0 K:0 L:0 M:0 N:3 O:0 P:0 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:1 Z:0
+grafo:95
+pessoa: 1
+ A:1 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:0 N:0 O:0 P:2 Q:0 R:1 S:0 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:3 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:1 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:0 R:1 S:0 T:0 U:0 V:2 W:0 X:0 Y:3 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 0
+ A:0 B:0 C:0 D:0 E:0 F:0 G:0 H:0 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:0 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+grafo:96
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:0 B:0 C:0 D:2 E:1 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:0 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:0 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:2 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:3 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:2 E:0 F:3 G:0 H:0 I:1 J:0 K:0 L:0 M:5 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:2 B:0 C:1 D:3 E:1 F:0 G:0 H:0 I:1 J:0 K:1 L:1 M:0 N:3 O:0 P:0 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:0 Z:0
+grafo:97
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:2 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:1 F:0 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:4 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:2 H:0 I:0 J:0 K:1 L:0 M:1 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:4 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:0 D:2 E:1 F:0 G:0 H:0 I:1 J:0 K:1 L:0 M:0 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:3 W:0 X:0 Y:4 Z:0
+pessoa: 7
+ A:1 B:0 C:4 D:1 E:0 F:3 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:2 O:0 P:0 Q:1 R:3 S:0 T:0 U:0 V:1 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:3 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+grafo:98
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:1 Z:0
+pessoa: 1
+ A:2 B:0 C:0 D:2 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:2 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:2 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:1 F:2 G:1 H:2 I:1 J:0 K:0 L:0 M:1 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:6 E:0 F:2 G:1 H:1 I:3 J:0 K:0 L:0 M:2 N:0 O:0 P:0 Q:1 R:2 S:1 T:1 U:0 V:1 W:0 X:0 Y:4 Z:0
+pessoa: 6
+ A:1 B:0 C:1 D:2 E:1 F:0 G:0 H:1 I:1 J:0 K:1 L:0 M:1 N:1 O:0 P:0 Q:1 R:1 S:0 T:0 U:0 V:3 W:0 X:0 Y:2 Z:0
+pessoa: 8
+ A:3 B:0 C:1 D:2 E:1 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:1 Q:0 R:2 S:0 T:1 U:0 V:1 W:0 X:0 Y:1 Z:0
+pessoa: 10
+ A:3 B:0 C:0 D:3 E:3 F:2 G:1 H:1 I:0 J:0 K:0 L:1 M:1 N:3 O:0 P:1 Q:1 R:0 S:1 T:0 U:0 V:1 W:1 X:0 Y:4 Z:0
+grafo:99
+pessoa: 0
+ A:1 B:0 C:3 D:0 E:0 F:0 G:0 H:0 I:2 J:0 K:0 L:0 M:1 N:0 O:0 P:0 Q:1 R:0 S:1 T:0 U:0 V:0 W:1 X:0 Y:2 Z:0
+pessoa: 1
+ A:1 B:0 C:0 D:1 E:0 F:1 G:1 H:0 I:2 J:0 K:0 L:1 M:2 N:0 O:0 P:2 Q:1 R:0 S:2 T:0 U:0 V:0 W:1 X:0 Y:5 Z:0
+pessoa: 2
+ A:0 B:0 C:1 D:2 E:0 F:1 G:1 H:0 I:0 J:0 K:1 L:0 M:0 N:0 O:0 P:2 Q:0 R:1 S:1 T:0 U:0 V:1 W:0 X:0 Y:2 Z:0
+pessoa: 3
+ A:1 B:0 C:0 D:2 E:0 F:1 G:2 H:0 I:1 J:0 K:0 L:0 M:0 N:1 O:0 P:1 Q:0 R:0 S:0 T:0 U:0 V:0 W:0 X:0 Y:1 Z:0
+pessoa: 4
+ A:1 B:0 C:1 D:1 E:0 F:2 G:0 H:3 I:0 J:0 K:0 L:0 M:0 N:0 O:0 P:1 Q:0 R:0 S:1 T:2 U:0 V:0 W:0 X:0 Y:2 Z:0
+pessoa: 5
+ A:2 B:0 C:0 D:5 E:0 F:2 G:1 H:0 I:3 J:0 K:0 L:0 M:3 N:0 O:0 P:0 Q:1 R:1 S:1 T:1 U:0 V:0 W:0 X:0 Y:3 Z:0
+pessoa: 7
+ A:0 B:0 C:3 D:2 E:0 F:2 G:0 H:1 I:1 J:0 K:0 L:0 M:4 N:1 O:0 P:0 Q:1 R:2 S:0 T:0 U:0 V:0 W:0 X:0 Y:0 Z:0
+pessoa: 8
+ A:4 B:0 C:1 D:2 E:2 F:0 G:0 H:0 I:2 J:0 K:1 L:1 M:0 N:3 O:0 P:2 Q:0 R:2 S:0 T:1 U:0 V:0 W:0 X:0 Y:0 Z:0

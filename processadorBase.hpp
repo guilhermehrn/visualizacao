@@ -38,9 +38,18 @@ struct Grafo{
 
 float calculaSimilaridad(Pessoa pessoa1, Pessoa pessoa2, int tamanhoVet);
 
+void imprimir(Grafo graf[], int quant);
+
+void imprimirArquivo(Grafo graf[], int quant);
+
+void determinarSimilares(Grafo graf[], int quant);
+
+void imprlimirArquivoSimilaridade(Grafo graf[], int quant);
+
 void lerArquivo(char *caminho, Grafo *graf);
 
 void retornaTabFrequencia();
+
 
 
 #endif /* PROCESSADORBASE_HPP_ */
